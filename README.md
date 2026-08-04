@@ -19,7 +19,7 @@ By day (and mostly by night), I write code, break code, fix code, and wonder why
 
 ### 🎭 Live Footage of Me Debugging
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXF5eDFqNWZ2bTRtbDZqeGl0anRwaXg1MTdoMXR0bHczczgxNWk2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k2DurhIu4jXMc/giphy.gif" width="700" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXF5eDFqNWZ2bTRtbDZqeGl0anRwaXg1MTdoMXR0bHczczgxNWk2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k2DurhIu4jXMc/giphy.gif" width="500" />
 </div>
 ---
 
