@@ -17,16 +17,14 @@ By day (and mostly by night), I write code, break code, fix code, and wonder why
 
 ---
 
-### 📊 GitHub Stats (Or: Proof That I Pretend to Work Hard)
+### 🎭 Live Footage of Me Debugging
+
+Instead of boring stats, here is the reality of my daily workflow:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kemalkurtt&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Kemal's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kemalkurtt&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemalkurtt&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://media.giphy.com/media/3o7TKsWkPlWBJVKSXe/giphy.gif" alt="Hacker Keyboard GIF" width="500" />
+  <p><em>"I'm in." (Typing 'Hello World' in HTML)</em></p>
 </div>
-
 ---
 
 ### 📬 You can reach out
@@ -34,13 +32,13 @@ By day (and mostly by night), I write code, break code, fix code, and wonder why
 Feel free to contact me about the problems. I will try to help as much as I can 😉
 
 <p>
-  <a href="https://linkedin.com/in/KULLANICI_ADIN" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://instagram.com/kemalkurt.7" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:MAIL_ADRESIN@gmail.com">
+  <a href="mailto:dev.kemalkurt@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/KULLANICI_ADIN" target="_blank">
+  <a href="https://twitter.com/jantijk" target="_blank">
     <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
