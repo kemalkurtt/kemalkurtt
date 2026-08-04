@@ -19,7 +19,7 @@ By day (and mostly by night), I write code, break code, fix code, and wonder why
 
 ### 🎭 Live Footage of Me Debugging
 <div align="center">
-  <img src="https://tenor.com/bVs2R.gif" width="500" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmFmb2FiczR1cXp2YTNwMDBhNnNxdzg1dDM1NjJxbTJ2bTdxMTV2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rY93u9tQbybks/giphy.gif" width="500" />
 </div>
 ---
 
