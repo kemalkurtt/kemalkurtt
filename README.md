@@ -17,11 +17,40 @@ By day (and mostly by night), I write code, break code, fix code, and wonder why
 
 ---
 
-### 🛠️ The Arsenal (Tech Stack I Pretend to Master)
+### 📊 GitHub Stats (Or: Proof That I Pretend to Work Hard)
 
-```json
-{
-  "languages": ["Kotlin", "Python", "C#", "C", "JavaScript", "HTML/CSS", "C++ (we have a complicated relationship)"],
-  "tools": ["Android Studio", "VS Code", "Git (mostly resolving merge conflicts created by past-me)"],
-  "superpower": "Turning a 5-minute task into a 4-hour rabbit hole of optimization."
-}
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kemalkurtt&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Kemal's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kemalkurtt&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemalkurtt&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+### 📬 You can reach out
+
+Feel free to contact me about the problems. I will try to help as much as I can 😉
+
+<p>
+  <a href="https://linkedin.com/in/KULLANICI_ADIN" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:MAIL_ADRESIN@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/KULLANICI_ADIN" target="_blank">
+    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="400" />
+</div>
+
+---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kemalkurtt&color=007ec6&style=flat-square" alt="Profile Views" />
+</p>
