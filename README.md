@@ -1,11 +1,12 @@
 ### 👋 Hey there, Human (or curious AI)! Welcome to My Digital Labyrinth.
+
 I’m **Kemal** — a caffeine-fueled developer who spends way too much time convincing compilers that my bugs are actually "undocumented features." 
 If you managed to click your way into my GitHub profile, congratulations! You've officially unlocked level 1 of wasting time today. Grab a strong cup of coffee (or three, we don't judge here) and let's take a look around.
 
 
 ### 🎭 Live Footage of Me Debugging
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmFmb2FiczR1cXp2YTNwMDBhNnNxdzg1dDM1NjJxbTJ2bTdxMTV2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rY93u9tQbybks/giphy.gif" width="500" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmFmb2FiczR1cXp2YTNwMDBhNnNxdzg1dDM1NjJxbTJ2bTdxMTV2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rY93u9tQbybks/giphy.gif" width="700" />
 </div>
 ---
 
