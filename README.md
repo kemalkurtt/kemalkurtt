@@ -18,12 +18,8 @@ By day (and mostly by night), I write code, break code, fix code, and wonder why
 ---
 
 ### 🎭 Live Footage of Me Debugging
-
-Instead of boring stats, here is the reality of my daily workflow:
-
 <div align="center">
-  <img src="[https://media.giphy.com/media/3o7TKsWkPlWBJVKSXe/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjlnYjhwdTA5NnY5bTV4NHppdzd0dHE4Z2loaGZpejZsNnVhM2tqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V1BG1EP8dMinm/giphy.gif)" alt="Hacker Keyboard GIF" width="500" />
-  <p><em>"I'm in." (Typing 'Hello World' in HTML)</em></p>
+  <img src="[BURAYA_GIFIN_DIREK_LINKINI_YAPISTIR](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjlnYjhwdTA5NnY5bTV4NHppdzd0dHE4Z2loaGZpejZsNnVhM2tqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V1BG1EP8dMinm/giphy.gif)" width="400" />
 </div>
 ---
 
